@@ -12,6 +12,7 @@
 /[Cc]ache/
 *.log
 
+*.htm
 
 /ScenarioEditor/Backups
 
